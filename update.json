@@ -1,0 +1,11 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/rotten-creatures",
+   "promos": {
+    "1.14.4-latest": "0.9.3",
+    "1.14.4-recommended": "0.9.3"
+  },
+  "1.14.4": {
+    "0.9.3": "Removed dungeon spawners from mobs, fix zombification effect and buffed Burned fire attack.",
+    "0.9.1": "Current last version for 1.14.4."
+  }
+}
